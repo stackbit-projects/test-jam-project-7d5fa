@@ -27,5 +27,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://test-jam-project-7d5fa.netlify.app"
 }
